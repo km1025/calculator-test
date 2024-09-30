@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
       expression=display.value
     }catch{
       display.value='error';
-      expressionz= '';
+      expression= '';
     }
   }
   });
